@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\MergingList\MergingList\bin\Debug\net8.0\MergingList.exe
+C:\Users\ninag\RiderProjects\MergingList\MergingList\bin\Debug\net8.0\MergingList.deps.json
+C:\Users\ninag\RiderProjects\MergingList\MergingList\bin\Debug\net8.0\MergingList.runtimeconfig.json
+C:\Users\ninag\RiderProjects\MergingList\MergingList\bin\Debug\net8.0\MergingList.dll
+C:\Users\ninag\RiderProjects\MergingList\MergingList\bin\Debug\net8.0\MergingList.pdb
+C:\Users\ninag\RiderProjects\MergingList\MergingList\obj\Debug\net8.0\MergingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\MergingList\MergingList\obj\Debug\net8.0\MergingList.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\MergingList\MergingList\obj\Debug\net8.0\MergingList.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\MergingList\MergingList\obj\Debug\net8.0\MergingList.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\MergingList\MergingList\obj\Debug\net8.0\MergingList.dll
+C:\Users\ninag\RiderProjects\MergingList\MergingList\obj\Debug\net8.0\refint\MergingList.dll
+C:\Users\ninag\RiderProjects\MergingList\MergingList\obj\Debug\net8.0\MergingList.pdb
+C:\Users\ninag\RiderProjects\MergingList\MergingList\obj\Debug\net8.0\MergingList.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\MergingList\MergingList\obj\Debug\net8.0\ref\MergingList.dll
